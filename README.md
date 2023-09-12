@@ -10,7 +10,6 @@ Designing a 16 bit CPU with Logisim
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-- [Documentation](#documentation)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -44,10 +43,6 @@ git clone https://github.com/yourusername/16-bit-CPU-Logisim.git
 3. You can interact with the CPU by providing inputs through the circuit's interface and observing the outputs.
 
 4. To modify or extend the CPU design, open the circuit in Logisim's edit mode and make changes as needed. Refer to the Logisim documentation for guidance on using the tool.
-
-## Documentation
-
-For detailed documentation on the CPU's architecture, instruction set, and how it works, please refer to the [Wiki](https://github.com/yourusername/16-bit-CPU-Logisim/wiki).
 
 ## License
 
