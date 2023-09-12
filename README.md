@@ -11,7 +11,6 @@ Designing a 16 bit CPU with Logisim
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
   
 ## Overview
@@ -48,13 +47,6 @@ git clone https://github.com/yourusername/16-bit-CPU-Logisim.git
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-We would like to thank the Logisim community and all contributors for their valuable insights and contributions to this project.
-
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at your.email@example.com.
-
-Happy coding!
-
+If you have any questions or suggestions, feel free to contact us at zandinejad7.9@gmail.com.
