@@ -35,7 +35,7 @@ Before you can use or modify this CPU design, you will need to have Logisim inst
 
 1. Clone this repository to your local machine:
 ``` bash
-git clone https://github.com/yourusername/16-bit-CPU-Logisim.git
+git clone https://github.com/hossein-zandinejad/16-Bit-CPU
 ```
 2. Open Logisim and load the CPU circuit file (`16-bit-CPU.circ`) from the repository.
 
